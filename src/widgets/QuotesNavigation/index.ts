@@ -1,0 +1,1 @@
+export { QuotesNavigation } from './ui';
